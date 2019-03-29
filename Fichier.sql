@@ -913,4 +913,4 @@ INSERT INTO Orders  Values ('10667','ERNSH',7,'1997-09-12 00:00:00.000','1997-10
 INSERT INTO Orders  Values ('10668','WANDK',1,'1997-09-15 00:00:00.000','1997-10-13 00:00:00.000','1997-09-23 00:00:00.000',2,47.22,'Die Wandernde Kuh','Adenauerallee 900','Stuttgart',NULL,'70563','Germany');
 INSERT INTO Orders  Values ('10669','SIMOB',2,'1997-09-15 00:00:00.000','1997-10-13 00:00:00.000','1997-09-22 00:00:00.000',1,24.39,'Simons bistro','Vinbltet 34','Kobenhavn',NULL,'1734','Denmark');
 INSERT INTO Orders  Values ('10670','FRANK',4,'1997-09-16 00:00:00.000','1997-10-14 00:00:00.000','1997-09-18 00:00:00.000',1,203.48,'Frankenversand','Berliner Platz 43','Mnchen',NULL,'80805','Germany');
-INSERT INTO Orders  Values ('10671','FRANR',1,'1997-09-17 00:00:00.000','1997-10-15 00:00:00.000','1997-09-24 00:00:00.000',1,30.34,'France
+INSERT INTO Orders  Values ('10671','FRANR',1,'1997-09-17 00:00:00.000','1997-10-15 00:00:00.000','1997-09-24 00:00:00.000',1,30.34,'France');
